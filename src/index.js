@@ -59,3 +59,6 @@ function nickName(name) {
     let user = name;
     return user
 }
+
+
+// TESTE DE ESTUDO .
